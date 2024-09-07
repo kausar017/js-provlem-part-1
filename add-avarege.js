@@ -23,9 +23,10 @@
 //         const avg = sum / count;
 //         return avg;
 //  }
-//  const numbars = [41, 42, 43, 44, 45, 46, 47];
+//  const numbars =[41, 42, 43, 44, 45, 46, 47];
 //  const avg = addAverage(numbars);
 //  console.log('average of the add numbers is:', avg);
+
 
 function oddavarage(numbars) {
     const odds = [];
